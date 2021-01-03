@@ -5,9 +5,7 @@ public class Masu {
     private int[][] map;
     private int width;
     private int height;
-    private int av;  //count if ship is there
 
     Masu (int width, int height) {
 
-    }
-}
+   ƠƠbác 』  sĩ   cho   biết   thêm :
